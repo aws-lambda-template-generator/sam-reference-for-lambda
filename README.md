@@ -2,7 +2,7 @@
 
 ## What You Need To Know About SAM Templates
 
-AWS SAM template is a thin abstraction of a CloudFormation template to develop and deploy lambda by a AWS tool, SAM (Serverless Aplication Model). It has shorter syntax compared to writing infrastructure as code with CloudFormation. We still do a little bit of learning when it comes to writing SAM templates. Using `sam init` will create a template, so it is a good starting point. Then we can build the template according to our needs.
+AWS SAM template is a thin abstraction of a CloudFormation template to develop and deploy lambda by a AWS tool, SAM (Serverless Application Model). It has shorter syntax compared to writing infrastructure as code with CloudFormation. We still do a little bit of learning when it comes to writing SAM templates. Using `sam init` will create a template, so it is a good starting point. Then we can build the template according to our needs.
 
 Quick Example
 
