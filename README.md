@@ -325,4 +325,4 @@ With Node.js
 1. Create a debug configuration in VSCode
 2. Add a breakpoint in the code
 3. Invoke lambda function using start-api, start-lambda or invoke lambda.
-4. Attach the debugger
+4. Attach the debuggerc
